@@ -12,7 +12,6 @@ log.txt
 .vscode/
 npm-debug.log*
 
-**/config/config.ts
 
 .idea/
 .ionic/
